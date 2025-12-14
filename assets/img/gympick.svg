@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="GYMPICK">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#e9d5ff"/>
+      <stop offset="100%" stop-color="#c7d2fe"/>
+    </linearGradient>
+    <pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M0 40 L40 0" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect width="1200" height="630" fill="url(#p)" opacity="0.7"/>
+  <circle cx="1020" cy="150" r="110" fill="#fff" fill-opacity="0.35"/>
+  <circle cx="980" cy="170" r="70" fill="#fff" fill-opacity="0.35"/>
+  <text x="70" y="260" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#111827">GYMPICK</text>
+  <text x="70" y="330" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#374151">Java GUI app for comparing fitness centers</text>
+  <text x="70" y="520" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#374151">Ahad Alasmari • Resume Project</text>
+</svg>
